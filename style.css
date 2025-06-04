@@ -1,0 +1,18 @@
+.napr, .neNapr, .condGraph {
+    border: 3px solid black;
+    background-color: #dca5ce;
+    display: flex;
+    margin: 20px;
+}
+
+body {
+    background-color: #ecc7e0;
+
+    display: flex;
+}
+
+.canvases, .divCondGraph{
+    padding: 20px;
+    display: flex;
+
+}
